@@ -19,7 +19,8 @@ Resume Matcher is an AI-powered application for tailoring resumes to job descrip
 
 ## First Steps
 
-Before exploring code, read [docs/agent/README.md](../docs/agent/README.md) for project orientation.
+- **Local setup & run instructions:** Read [SETUP_NOTES.md](../SETUP_NOTES.md) — covers how to start the app, Ollama model selection, and known pitfalls.
+- **Project orientation:** Read [docs/agent/README.md](../docs/agent/README.md) for codebase architecture and conventions.
 
 ---
 
